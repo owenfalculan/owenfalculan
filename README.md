@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Owen!
+- 👀 I’m interested in web development and machine learning
+- 🌱 I’m currently learning data science
