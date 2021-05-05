@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Owen!
-- 👀 I’m interested in web development and machine learning.
+- 👀 I’m interested in web development.
